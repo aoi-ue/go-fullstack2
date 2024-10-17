@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/emarifer/gofiber-templ-htmx/handlers"
+	"github.com/aoi-ue/go-fullstack2/handlers"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
