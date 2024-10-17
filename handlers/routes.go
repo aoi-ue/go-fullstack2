@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/a-h/templ"
-	"github.com/emarifer/gofiber-templ-htmx/views"
+	"github.com/aoi-ue/go-fullstack2/views"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/adaptor"
 	"github.com/gofiber/fiber/v2/middleware/session"
