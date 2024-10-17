@@ -6,8 +6,8 @@ import (
 	"strings"
 
 	"github.com/a-h/templ"
-	"github.com/emarifer/gofiber-templ-htmx/models"
-	"github.com/emarifer/gofiber-templ-htmx/views/todo_views"
+	"github.com/aoi-ue/go-fullstack2/models"
+	"github.com/aoi-ue/go-fullstack2/views/todo_views"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/adaptor"
 	"github.com/sujit-baniya/flash"
