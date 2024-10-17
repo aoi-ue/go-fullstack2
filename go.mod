@@ -1,4 +1,4 @@
-module github.com/emarifer/gofiber-templ-htmx
+module github.com/aoi-ue/go-fullstack2
 
 go 1.22
 
